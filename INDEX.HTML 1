@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfumy</title>
+</head>
+<body>
+    <link rel="stylesheet" href="style.css">
+    
+ <nav>
+    <h1>Perfumy</h1>
+    <ul>
+        <li>Home |</li>
+        <li>Products |</li>
+        <li>About |</li>
+        <li>Contact</li>
+    </ul>
+</nav>
+<div class="searchbar">
+<input placeholder="Search">
+</div>
+
+<div class="product">
+    <div class="box">
+    <img src="pic 1.jpg">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta suscipit accusamus quos doloribus aut mollitia nobis optio! Unde, maxime similique</p> 
+</div>
+
+
+<div class="box">
+    <img src="pic 2.jpg">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta suscipit accusamus quos doloribus aut mollitia nobis optio! Unde, maxime similique</p> 
+</div>
+
+
+<div class="box">
+    <img src="pic3.jpg">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta suscipit accusamus quos doloribus aut mollitia nobis optio! Unde, maxime similique</p> 
+</div>
+
+
+<div class="about">
+    <h2 style="text-align: center;">About Us</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi sint possimus asperiores recusandae earum perspiciatis enim dolor tempora facilis! Inventore cupiditate nobis repellat possimus, vel voluptates? Cumque atque impedit incidunt rerum iusto dolor consectetur laboriosam, quibusdam officia accusantium suscipit quis ipsam repellat quos sequi qui consequuntur amet. Sunt labore eveniet aliquid molestias, minus sequi. Pariatur nobis animi voluptate facere recusandae, odit sit impedit qui quidem excepturi iure eum numquam eveniet! Repellat repellendus repudiandae perferendis dolorem veniam sunt, ducimus corrupti tempore, dolores voluptate, odio explicabo. Dignissimos error labore odit expedita eum aperiam, minima totam, ea sapiente quam ipsam nam quaerat fugiat.</p>
+</div>
+
+<div class="contact">
+    <h4 style="text-align: center;">Contact</h4>
+    <p>+914363546</p>
+    <p>abu@gmai.com</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis eos corporis blanditiis, ab magnam quam accusamus quibusdam dolor repudiandae. Iusto praesentium fuga alias esse, doloribus nostrum repellat repellendus doloremque natus repudiandae atque officia velit necessitatibus aut magnam laudantium numquam tempore amet molestias magni odit ab. Nesciunt nihil non quaerat et?</p>
+    
+</div>
+
+
+
+</body>
+</html>
